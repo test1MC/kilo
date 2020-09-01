@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -11,8 +11,7 @@
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
-  ConditionTagExpression="include[&quot;General.Audience B&quot;] exclude[&quot;General.Audience A&quot;] "
-  DefaultUrl="/Content/Home.htm">
+  ConditionTagExpression="include[&quot;General.Audience B&quot;] exclude[&quot;General.Audience A&quot;] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
